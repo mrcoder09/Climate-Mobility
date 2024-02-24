@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252654477699",
+    "project_id": "climate-mobility",
+    "storage_bucket": "climate-mobility.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252654477699:android:ce51a0e7c16b38239916b6",
+        "android_client_info": {
+          "package_name": "com.cityof.glendale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQN2WcA25eP7E7vEPDYU4fdOl2y3Ikd3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

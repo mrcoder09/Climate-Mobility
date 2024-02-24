@@ -1,0 +1,55 @@
+package com.cityof.glendale.theme
+
+import androidx.compose.ui.graphics.Color
+
+
+//City of Glendale
+val Purple = Color(0xFF442580)
+val FF777C80 = Color(0xFF777C80)
+val ContainerColor = Color(0xFFF3F3F3)
+val Green = Color(0xFF69A251)
+
+val TEXT_FIELD_HINT_COLOR = Color(0xFF4b4b4b)
+
+val BG_WINDOW = Color(0xFFFFFFFF)//Color(0xFFF9F9F9)
+val ERR_RED = Color(0xFFED1B2D)
+val FF333333 = Color(0xFF333333)
+val FF4B2E85 = Color(0xFF4B2E85)
+
+//MORE SCREEN
+val MORE_DIVIDER_GRAY = Color(0xFFDADADA)
+val MORE_DIVIDER = Color(0xFFF9F9F9)
+val MORE_VIEW_PROFILE = Color(0xFF777C80)
+
+//PROFILE SCREEN
+val PROFILE_LABEL_GRAY = MORE_VIEW_PROFILE
+val PROFILE_VALUE_GRAY = FF333333
+val PROFILE_RED_BUTTON = Color(0xFFD4182F)
+
+//CONTACT US
+val FFFFE7B8 = Color(0xFFFFE7B8)
+val FFEFE8FB = Color(0xFFEFE8FB)
+
+//TRIP
+val FFF9F9F9 = Color(0xFFF9F9F9)
+val FFDADADA = Color(0xFFDADADA)
+
+//HEX CODE COLOR
+val FFCDCDCD = Color(0xFFCDCDCD)
+val FF252826 = Color(0xFF252826)
+val FF69A251 = Color(0xFF69A251)
+val FF228D00 = Color(0xFF228D00)
+
+val FF7A64A5 = Color(0xFF7A64A5)
+val FFEFB30F = Color(0xFFEFB30F)
+val FFA2AAAD = Color(0xFFA2AAAD)
+val FF121212 = Color(0xFF121212)
+val FF9D9D9D = Color(0xFF9D9D9D)
+
+val FF434343 = Color(0xFF434343)
+val FFE52E29 = Color(0xFFE52E29)
+val FFA28DCA = Color(0xFFA28DCA)
+val FFFF6665 = Color(0xFFFF6665)
+val FFF3F3F3 = Color(0xFFF3F3F3)
+
+

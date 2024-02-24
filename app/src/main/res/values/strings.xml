@@ -1,0 +1,498 @@
+<resources>
+    <string name="app_name" translatable="false">Climate Mobility</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_join">Join our Community</string>
+    <string name="be_the_solution">Be the solution to lowering emissions!</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="please_login">Please log into your account to continue.</string>
+    <string name="msg_email">Email</string>
+    <string name="msg_password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don’t have an account?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="msg_sign_up_reduce">Bee the solution to lowering emissions to combat climate change.</string>
+    <string name="confirm_pwd">Confirm Password</string>
+    <string name="msg_do_you_want">Do you want to use biometric for Login?</string>
+    <string name="msg_continue">Continue</string>
+    <string name="next_step">Next Step</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="dob">Date of Birth</string>
+    <string name="street_addr">Street Address</string>
+    <string name="city">City</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="msg_certify">I certify that I am 13 years of age or older.</string>
+    <string name="i_accept_terms">I accept the</string>
+    <string name="submit">Submit</string>
+    <string name="bars">bars</string>
+    <string name="phone_numer">Phone Number</string>
+    <string name="msg_enter_email">Please enter your email to reset your password.</string>
+    <string name="enter_email_or_phone">Enter Email</string>
+    <string name="already_have_an_account">"Already have an account? "</string>
+    <string name="check_your_email">Check your email</string>
+    <string name="msg_we_have_sent">We have sent password recovery instructions to your email.</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="resend">Resend</string>
+    <string name="msg_digit_code_sent">4-Digit code sent to </string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Select</string>
+
+    <string name="msg_create_new_pwd">Your new password must be different from the current one.</string>
+
+    <string name="create_new_password">Create New Password</string>
+    <string name="create">Create</string>
+    <string name="msg_congratulations">You have successfully changed your password.</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="msg_change_pwd">Please confirm your existing password to create a new one</string>
+    <string name="change_password">Change Password</string>
+    <string name="msg_login_finger">Login using biometric credential</string>
+    <string name="beeline_login">Beeline Login</string>
+    <string name="use_account_password">Use Account Password</string>
+    <string name="msg_face_id">Login using face id</string>
+    <string name="phone_number">Phone Number</string>
+
+
+    <string name="err_first_name">Please enter a valid First Name.</string>
+    <string name="err_last_name">Please enter a valid Last Name.</string>
+    <string name="err_email">Please enter a valid Email.</string>
+    <!--    <string name="err_password_required" translatable="false">-->
+    <!--        <![CDATA[Password must be 8-20 characters in length and must contain the following:-->
+    <!--\n2 upper case(A-Z)-->
+    <!--\n1 special character(!@#$&*)-->
+    <!--\n2 digits(0-9)-->
+    <!--\n3 lowercase letters(a-z)]]>-->
+    <!--    </string>-->
+    <string name="err_password_required" translatable="false">
+        <![CDATA[
+Password must contain:\n
+  8 to 20 characters long.\n
+  at least 1 uppercase letter.\n
+  at least 1 lowercase letter.\n
+  at least 1 special character. (Eg. @ # $)\n
+  should not start with a number.\n
+  should not contain any spaces.
+]]>
+    </string>
+    <string name="err_phone_required">Please enter a valid Phone number.</string>
+    <string name="err_confirm_pwd_not_match">Confirm Password doesn\'t match with Password.</string>
+    <string name="err_street_address">Street Address should not be empty.</string>
+
+    <string name="err_gender">Gender should not be empty.</string>
+    <string name="err_city">City should not be empty.</string>
+    <string name="err_state">State should not be empty.</string>
+    <string name="err_zipcode">Zip Code should not be empty.</string>
+    <string name="err_otp">OTP should not be empty.</string>
+
+
+    <string name="msg_we_have_sent_on_mobile">We have sent a password recovery instructions to your phone.</string>
+    <string name="check_your_phone">Check your phone</string>
+    <string name="version">Version %s</string>
+    <string name="copyright_2023_beeline_all_rights_reserved">Copyright © 2023 Beeline. All Rights Reserved.</string>
+    <string name="martha_parker">Martha Parker</string>
+    <string name="view_profile">View Profile</string>
+    <string name="more">More</string>
+    <string name="sex">Gender</string>
+    <string name="group_joined">Joined Group</string>
+    <string name="personal_vehicle_type">Personal Vehicle Type</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="save">Save</string>
+    <string name="other_information">Other Information</string>
+    <string name="state">State</string>
+    <string name="title_are_you_sure">Are you sure?</string>
+    <string name="msg_are_you_sure">Are you sure you want delete this account? This action cannot be undone.</string>
+    <string name="delete">Delete</string>
+    <string name="no">No</string>
+    <string name="current_password">Current Password</string>
+    <string name="notifications">Notifications</string>
+    <string name="notification_setting">Notification Settings</string>
+    <string name="service_delay">Service delays</string>
+
+    <string-array name="tab_arr">
+        <item>Home</item>
+        <item>Trips</item>
+        <item>Rewards</item>
+        <item>Feedback</item>
+        <item>More</item>
+    </string-array>
+
+    <string-array name="arr_settings">
+        <item>Languages</item>
+        <item>Notifications</item>
+        <item>FAQs</item>
+        <item>Contact Us</item>
+        <item>License Agreement</item>
+        <item>Privacy Statement</item>
+        <item>Logout</item>
+    </string-array>
+
+
+    <string name="service_delays">Service delays</string>
+    <string name="detours">Detours</string>
+    <string name="desc_service_delays">Receive all notifications</string>
+    <string name="desc_detours">Get your personalized daily briefing\nin your inbox</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="customer_report_form">Customer Service</string>
+    <string name="msg_customer_report_form">If you have any questions or comments regarding the Climate Mobility App, click the link below.</string>
+    <string name="go_to_form">Form Embedded</string>
+    <string name="choose_lang">Choose Your Preferred Language</string>
+    <string name="msg_choose_lang">Please select your language.</string>
+    <string name="yes">Yes</string>
+    <string name="msg_want_logout">Do you really want to exit the Climate Mobility application?</string>
+    <string name="msg_logout">Are you sure you want delete this account? This action cannot be undone.</string>
+    <string name="logout">Logout</string>
+    <string name="err_email_not_empty">Email should not be empty.</string>
+    <string name="err_pwd_not_empty">Password should not be empty.</string>
+    <string name="err_pwd_length">Password required must have least 8 characters.</string>
+    <string name="err_first_name_empty">First Name should not be empty.</string>
+    <string name="err_last_name_empty">Last Name should not be empty.</string>
+    <string name="err_confirm_pwd_empty">Confirm Password should not be empty.</string>
+    <string name="err_term_conditions">Please accept the Terms and Conditions of the application.</string>
+    <string name="err_age_requirement">Please accept the Age requirement of the application.</string>
+    <string name="err_pwd_valid">Please enter a valid password.</string>
+    <string name="err_dob">Date of birth should not be empty.</string>
+    <string name="err_otp_length">Please enter a valid 4 digit OTP.</string>
+
+    <string name="err_new_pwd_empty">New Password should not be empty.</string>
+    <string name="err_new_pwd_length">New Password required must be of 8 characters.</string>
+    <string name="err_new_password_required"><![CDATA[
+New Password must contain:\n
+  8 to 20 characters long.\n
+  at least 1 uppercase letter.\n
+  at least 1 lowercase letter.\n
+  at least 1 special character. (Eg. @ # $)\n
+  should not start with a number.\n
+  should not contain any spaces.
+]]>
+    </string>
+    <string name="california">California</string>
+    <string name="signin">Sign In</string>
+    <string name="term_conditions">Terms and Conditions.</string>
+    <string name="forgot_pwd">Forgot Password</string>
+    <string name="new_password">New Password</string>
+    <string name="email">Email</string>
+    <string name="date_of_birth">Date Of Birth</string>
+
+    <string name="err_biometric">No biometric features available on this device.</string>
+    <string name="err_biometric_unavailable">Biometric features are currently unavailable.</string>
+    <string name="err_biometric_security_valunerablity">Biometric features available but a security vulnerability has been discovered.</string>
+    <string name="err_biometric_incompatiblity">Biometric features are currently unavailable because the specified options are incompatible with the current Android version.</string>
+    <string name="err_biometric_auth">Unable to determine whether the user can authenticate using biometrics.</string>
+    <string name="msg_biometric_no_enrollment">You do not have biometrics set up for your device. Would you like to change your settings?</string>
+    <string name="err_biometric_operation">Operation is cancelled by user interaction.</string>
+    <string name="settings">Settings</string>
+    <string name="biometric_authentication">Biometric Authentication</string>
+    <string name="msg_login_biometric">Log in using your biometric credential</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="err_biometric_operation_cancelled">Operation is cancelled by user interaction.</string>
+    <string name="biometric_too_many_attempt">Too many attempts. Try again later. Please try after 30 seconds.</string>
+    <string name="err_confirm_pwd_match">Confirm Password doesn\'t match with New Password</string>
+    <string name="edit">Edit</string>
+    <string name="female">Female</string>
+    <string name="err_dob13years">Date of Birth must be above 13 year to use app.</string>
+    <string name="err_pwd_empty">Phone number should not be empty.</string>
+    <string name="biometric_is_activated">Biometric is activated</string>
+    <string name="biometrics">Biometrics</string>
+    <string name="next">Next</string>
+    <string name="msg_signup_success">An email has been sent to you to activate your account.</string>
+    <string name="msg_biometric_disabled_app">Biometrics setting is disabled for Beeline App. You can login to app and enable biometrics from Edit Profile.</string>
+    <string name="msg_be_the_solution">Bee the solution to lowering\n emissions to combat\n climate change.</string>
+    <string name="trip_planning">Trip Planning</string>
+    <string name="search_destination">Search destination</string>
+    <string name="routes_maps"><![CDATA[Routes & Maps]]></string>
+    <string name="saved_trips">Saved Trips</string>
+    <string name="see_more">See More</string>
+    <string name="please_enter_a_valid_zip_code">Please enter a valid Zip Code.</string>
+    <string name="err_email_phone_empty">Email/Phone number should not be empty.</string>
+    <string name="err_peronsal_vehicle">Vehicle Type should not be empty.</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="msg_email_activation">An email has been sent to you to activate your account.</string>
+    <string name="type_to_search">Type to search ...</string>
+    <string name="recent">Recent</string>
+    <string name="trip_plan">Trip Planning</string>
+    <string name="transport_mode_beeline">Beeline</string>
+    <string name="transport_mode_walking">Walking</string>
+    <string name="transport_mode_biking">Biking</string>
+    <string name="msg_location_setting_permission">We need your permission to access your current location. Do you want to change your settings?</string>
+    <string name="location">Current Location</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="err_valid_city">Please enter a valid City.</string>
+    <string name="err_valid_street_address">Please enter a valid Street Address.</string>
+    <string name="feedback">Feedback</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="please_read_this_carefully_to_continue">Please read this carefully to continue</string>
+    <string name="these_app_terms_of_use">These app terms of use (hereinafter \'terms of use\') govern your access to and use of the app. The app is available for your use only on the condition that you agree to the terms of use set forth below. If you do not agree to all of the terms of use, do not access or use the app. By accessing or using the website, you and the entity you are authorised to represent (hereinafter \'you\' or \'your\') signify your agreement to be bound by the terms of use.</string>
+    <string name="user_eligibility">User Eligibility</string>
+    <string name="the_app_is_provided_by_beeline">The app is provided by Beeline and available only to entities and persons who have reached the age of legal majority and are competent to enter into a legally binding agreement(s) under the applicable law.</string>
+    <string name="by_continuing_you">By continuing you agree to the Terms of Service and Privacy Policy</string>
+
+    <string name="select_group">Select Group(Optional)</string>
+    <string name="err_network">You are not connected to the internet. Please check the internet connection and try again.</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="er_biometric_saved_credentials">Credentials entered are not getting matched with saved credentials for biometric on this device, you can try manual login.</string>
+    <string name="err_biometric_you_need_to_access">Please login manually for the first time to use biometric login feature.</string>
+    <string name="err_biometric_not_enabled">Biometric login is not enabled for %s account, you can try manual login.</string>
+
+    <!-- arrays -->
+    <string-array name="school_names">
+        <item>Select Group(Optional)</item>
+        <item>Balboa Elementary School</item>
+        <item>Cerritos Elementary School</item>
+        <item>Columbus Elementary School</item>
+        <item>Dunsmore Elementary School</item>
+        <item>Thomas Edison Elementary School</item>
+        <item>Benjamin Franklin Elementary School</item>
+        <item>John C. Fremont Elementary School</item>
+        <item>Glenoaks Elementary School</item>
+        <item>Thomas Jefferson Elementary School</item>
+        <item>Mark Keppel Elementary School</item>
+        <item>La Crescenta Elementary School</item>
+        <item>Abraham Lincoln Elementary School</item>
+        <item>Horace Mann Elementary School</item>
+        <item>John Marshall Elementary School</item>
+        <item>Monte Vista Elementary School</item>
+        <item>Mountain Avenue Elementary School</item>
+        <item>John Muir Elementary School</item>
+        <item>Valley View Elementary School</item>
+        <item>Verdugo Woodlands Elementary School</item>
+        <item>R.D. White Elementary School</item>
+        <item>Verdugo Academy Independent Study</item>
+        <item>Theodore Roosevelt Middle School</item>
+        <item>Rosemont Middle School</item>
+        <item>Eleanor J. Toll Middle School</item>
+        <item>Woodrow Wilson Middle School</item>
+        <item>Verdugo Academy Independent Study</item>
+        <item>Anderson W. Clark Magnet High School</item>
+        <item>Crescenta Valley High School</item>
+        <item>Glendale High School</item>
+        <item>Herbert Hoover High School</item>
+        <item>Allan F. Daily Continuation High School</item>
+        <item>Verdugo Academy Independent Study</item>
+        <item>Glendale Unified Online College &amp; Career Academy</item>
+        <item>Glendale University of California</item>
+        <item>Glendale Community College</item>
+    </string-array>
+
+    <string-array name="vehicle_types">
+        <item>Personal Vehicles Type</item>
+        <item>Subcompact</item>
+        <item>Midsize</item>
+        <item>Large</item>
+        <item>Pickup</item>
+        <item>Truck</item>
+        <item>Minivan</item>
+        <item>Sports Utility(SUV) vehicle</item>
+        <item>Electric Vehicle</item>
+        <item>I do not drive a car</item>
+    </string-array>
+
+
+    <!-- Inside your strings.xml file -->
+    <string-array name="gender_array">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Prefer Not to Say</item>
+        <!--        <item>Rather Not to Say</item>-->
+    </string-array>
+
+
+    <string-array name="trip_item_options">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+
+
+    <string name="mode_beeline">Beeline</string>
+    <string name="walking">Walking</string>
+    <string name="biking">Biking</string>
+    <string-array name="transport_mode">
+        <item>Beeline</item>
+        <item>Walking</item>
+        <item>Biking</item>
+    </string-array>
+
+    <string-array name="photo_picker_option">
+        <item>Camera</item>
+        <item>Gallery</item>
+        <item>Delete Photo</item>
+    </string-array>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_home_help_lower_emission">Bee the solution to lowering emissions to combat climate change by taking the bus, walking, or biking instead of using your car.</string>
+    <string name="about_emissions">About Emissions</string>
+    <string name="emissions_reduced">My Reductions</string>
+    <string name="how_to_earn_points">How to Earn Points</string>
+    <string name="msg_enviromental_protection">Environmental Protection Agency Vehicle Size Classifications/Mile Per Gallon/Greenhouse Emissions</string>
+    <string name="msg_start_trip">Start a trip to see how you\'re helping to reduce CO2 emissions.</string>
+    <string name="did_you_know">Did You Know?</string>
+    <string name="msg_average_gasoline">"The average gasoline vehicle emits around 411 grams of CO2 per mile. That’s 4,110 grams of CO2 for a 10 mile trip!  "</string>
+    <string name="learn_more">Learn More</string>
+    <string name="this_month">This Month</string>
+    <string name="lifetime">Lifetime</string>
+    <string name="msg_profile_update_success">Your profile have been updated successfuly.</string>
+    <string name="msg_permission_camera">Camera Permission is required to use this functionality.</string>
+
+    <string name="err_current_pwd_not_empty">Current Password should not be empty.</string>
+    <string name="err_new_password_current_password">New password must be different from current password.</string>
+    <string name="email_subject">Mobile App Feedback</string>
+    <string name="welcom_user">Welcome %s!</string>
+    <string name="msg_session_expired">Your session has been expired</string>
+    <string name="redeem">Redeem</string>
+    <string name="order_details">Order Details</string>
+    <string name="order_total_cost">Order Total Cost</string>
+    <string name="updated_balance">Updated Balance</string>
+    <string name="msg_want_to_redeem">Important: To redeem Hive Points successfully, ask the outlet merchant to click \'redeem\' for item availability.\nThank you!\nAre you sure you want to redeem? This action cannot be undone.</string>
+    <string name="msg_want_to_redeem_for_pass">Are you sure you want to redeem? This action cannot be undone.</string>
+    <string name="msg_redeem_congratulations">Your points have been successfully redeemed!</string>
+    <string name="msg_redeem_congratulations_for_pass">Your points have been successfully redeemed! We will be sending you an email with instructions.\nThank you</string>
+    <string name="reedem_now">Reedem Now</string>
+    <string name="proceed">Proceed</string>
+    <string name="options">%s Options</string>
+    <string name="redeem_rewards">Redeem Rewards</string>
+    <string name="redeem_points">Redeem Points</string>
+    <string name="app_name_other">Climate Mobility</string>
+    <string name="climate_mobility">Climate Mobility</string>
+    <string name="option">%1$s Option</string>
+    <string name="redeem_details">Redeem Details</string>
+    <string name="route_map"><![CDATA[Routes & Maps]]></string>
+    <string name="trips_planning">Trip Planning</string>
+    <string name="plan_a_trip">Plan a Trip</string>
+    <string name="fare_info">Fare Info</string>
+    <string name="timetables_route_maps"><![CDATA[Beeline Timetables & Route Maps]]></string>
+    <string name="msg_view_detailed_timeline">View detailed Glendale Beeline timetables and route maps below.</string>
+    <string name="fare">Fares</string>
+    <string name="beeline_fare">Beeline Fares</string>
+    <string name="regular">REGULAR</string>
+    <string name="senior_citizen">SENIOR 62+/ DISABLED/ MEDICARE</string>
+    <string name="student">STUDENT</string>
+    <string name="support_email">ClimateMobilityApp@Glendaleca.gov</string>
+    <string name="support_email_with_dot">ClimateMobiltyApp@Glendaleca.gov.</string>
+    <string name="suppor_mobile">(818) 548-3960</string>
+    <string name="gram_of_co">grams of CO2</string>
+    <string name="hive_points">Hive Points</string>
+    <string name="community">Community</string>
+    <string name="add_feedback">Add Feedback</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="map_file_not_found">Map file not found</string>
+    <string name="my_feedback">My Feedback</string>
+
+    <string name="err_safety">Please select valid answer for safety</string>
+    <string name="err_service_performance">Please select valid answer for Service Performance.</string>
+    <string name="err_drive_behaviour">Please select valid answer for Drive Behaviour</string>
+    <string name="err_vehicle_maintenance">Please select valid answer for Vehicle Maintenance.</string>
+    <string name="feedback_submitted">Feedback Submitted</string>
+    <string name="thanks_for_your_feedback">Thanks for your valuable feedback on our Beeline service.</string>
+    <string name="write_your_feedback">Write your feedback</string>
+    <string name="err_valid_reason">"Please select a valid reason. "</string>
+    <string name="msg_if_you_have_any_questions">If you have any questions or concerns about the Beeline service, complete the form below.</string>
+    <string name="end_destination">End Destination</string>
+    <string name="google_map_key" translatable="false">AIzaSyBoqY_DrBsMotSEOc2SRTfzFgiCRxs5mQ4</string>
+    <string name="route">Route</string>
+    <string name="bus_no">Bus no</string>
+    <string name="call">Call</string>
+    <string name="save_trip">Save Trip</string>
+    <string name="suggested">Suggested</string>
+    <string name="location_search">Search Location</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="let_plan_a_trip">Let\'s Plan a Trip!</string>
+    <string name="glendale">Glendale</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="add_your_label">Add your label</string>
+    <string name="bus">Bus</string>
+    <string name="green_points">Hive Points</string>
+    <string name="update_trip">Update Trip</string>
+    <string name="mode_of_transport">Mode Of Transport</string>
+    <string name="msg_share_facebook">Choosing eco-friendly vehicles over polluting vehicles isn\'t just a ride, it\'s a commitment to a cleaner, greener future. Every journey on eco-friendly vehicles is a step towards reducing emissions and embracing sustainable mobility. Let\'s pave the way for cleaner air and a healthier planet! \n #BeeLine #CityofGlandale #EcoDrive #ReduceEmissions #SustainableLiving #CleanCommute #tag</string>
+    <string name="msg_share_instagram_x">Rolling into a cleaner, greener future one eco-friendly ride at a time!  Every choice to ditch the polluting ride for a sustainable journey counts. Let\'s make our commute a statement for a healthier planet.\n #BeeLine #CityofGlandale #EcoDrive #ReduceEmissions #SustainableLiving</string>
+    <string name="msg_add_label">Please enter your label</string>
+    <string name="msg_enter_your_label">Enter your label</string>
+    <string name="add_label">Add label</string>
+    <string name="current_location">Current Location</string>
+    <string name="direction">Direction</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="emissions_reduced_this_month">Emissions Reduced\nThis Month</string>
+    <string name="emission">Emission</string>
+    <string name="emission_reduced">Emission reduced</string>
+    <string name="msg_successfully_completed">You have successfully completed your trip and you get %s emission reduced and %s hive points.</string>
+    <string name="msg_location_permission_required">Location Permission is required for this functionality.</string>
+    <string name="no_vehicle_found">No Vehicle found!</string>
+    <string name="msg_feedback_message">Would you like to provide feedback about your trip experience?</string>
+    <string name="your_post_shared_successfully">Your post shared successfully</string>
+    <string name="let_others_know">Let others know!</string>
+    <string name="every_10_trips_completed_through_the_app_will_earn_you_100_points">Every 10 trips completed through the app will earn you 100 points!</string>
+    <string name="mission">Mission</string>
+    <string name="server_not_available">Server not available.</string>
+    <string name="you_have_successfully_saved_your_trip">You have successfully saved your trip</string>
+    <string name="to_purchase_tap_stored_value">"To purchase TAP Stored Value, "</string>
+    <string name="tap_here">tap here.</string>
+    <string name="available_points">Available Points</string>
+    <string name="points">%1$s Points</string>
+    <string name="redeem_now">Redeem Now</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="if_you_are_experiencing_or_witnessing_an_emergency">If you are experiencing or witnessing an emergency</string>
+    <string name="call_911">CALL 911!</string>
+    <string name="select_your_route">Select your route</string>
+    <string name="comments_rating"><![CDATA[Comments & Rating]]></string>
+    <string name="sort_by">Sort By</string>
+    <string name="newest">Newest</string>
+    <string name="oldest">Oldest</string>
+    <string name="highest">Highest</string>
+    <string name="lowest">Lowest</string>
+
+
+    <!-- MyFeedbackScren -->
+    <string name="safety">Safety</string>
+    <string name="very_safe">Very Safe</string>
+    <string name="unsafe">Unsafe</string>
+    <string name="unruly_behavior">Unruly Behavior</string>
+    <string name="suspicious_activity">Suspicious Activity</string>
+    <string name="threatening_activity">Threatening Activity</string>
+    <string name="harassment">Harassment</string>
+    <string name="soliciting_panhandling">Soliciting/Panhandling</string>
+    <string name="service_performance">Service Performance</string>
+    <string name="on_time">On Time</string>
+    <string name="early">Early</string>
+    <string name="running_late">Running Late</string>
+    <string name="missed_stop">Missed Stop</string>
+    <string name="driver_behavior_conduct">Driver\'s Behaviour/Conduct</string>
+    <string name="courteous">Courteous</string>
+    <string name="neutral">Neutral</string>
+    <string name="rude">Rude</string>
+    <string name="vehicle_maintenance">Vehicle Maintenance</string>
+    <string name="clean">Clean</string>
+    <string name="graffiti">Graffiti</string>
+    <string name="no_ac">No AC</string>
+    <string name="no_heat">No Heat</string>
+    <string name="dirty">Dirty</string>
+    <string name="seats">Seats</string>
+    <string name="windows">Windows</string>
+    <string name="floor">Floor</string>
+    <string name="inside_the_bus">Inside the bus</string>
+    <string name="outside_the_bus">Outside the bus</string>
+    <string name="overall_experience">How would you rate the overall experience of our service?</string>
+    <string name="write_feedback">Write your feedback</string>
+    <string name="choose_the_reason">Choose the reason</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="license_agreement">License Agreement</string>
+    <string name="privacy_statement">Privacy Statement</string>
+    <string name="faqs">FAQs</string>
+    <string name="msg_permission_ration_post_notification">Climate Mobility requires the notification permission to deliver important updates and notifications directly to your device. Consider it allowing permission from app settings.</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="my_trips">My Trips</string>
+    <string name="trip_cannot_be_start_before_selected_date">Trip cannot be start before selected date &amp; time.</string>
+    <string name="default_notification_channel_id" translatable="false">com.cityof.glendale</string>
+    <string name="msg_start_trip_to_see">Start a trip to see how much are helping to reduce CO2 emissions!</string>
+
+</resources>

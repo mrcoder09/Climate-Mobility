@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Configuración</string>
+    <string name="msg_join">Únete a nuestra comunidad</string>
+    <string name="be_the_solution">¡Sé la solución para reducir las emisiones!</string>
+    <string name="welcome_back">Bienvenido de nuevo!</string>
+    <string name="please_login">Inicie sesión en su cuenta para continuar.</string>
+    <string name="msg_email">Correo electrónico</string>
+    <string name="msg_password">Contraseña</string>
+    <string name="remember_me">Recuérdame</string>
+    <string name="forgot_password">¿Has olvidado tu contraseña?</string>
+    <string name="login">Acceso</string>
+    <string name="dont_have_account">¿No tienes una cuenta?</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="create_account">Crear una cuenta</string>
+    <string name="msg_sign_up_reduce">Bee (sea) la solución para reducir las emisiones para combatir el cambio climático</string>
+    <string name="confirm_pwd">Confirme Contraseña</string>
+    <string name="msg_do_you_want">¿Quieres usar biométrico para iniciar sesión?</string>
+    <string name="msg_continue">Continuar</string>
+    <string name="next_step">Siguiente paso</string>
+    <string name="personal_details">Detalles Personales</string>
+    <string name="dob">Fecha de nacimiento</string>
+    <string name="street_addr">Dirección</string>
+    <string name="city">Ciudad</string>
+    <string name="zip_code">Código Postal</string>
+    <string name="msg_certify">Certifico que tengo 13 años de edad o más.</string>
+    <string name="i_accept_terms">Acepto los</string>
+    <string name="submit">Entregar</string>
+    <string name="bars">barras</string>
+    <string name="phone_numer">Número de teléfono</string>
+    <string name="msg_enter_email">Ingrese su correo electrónico para restablecer su contraseña.</string>
+    <string name="enter_email_or_phone">Ingrese correo electrónico</string>
+    <string name="already_have_an_account">¿Ya tienes una cuenta? </string>
+    <string name="check_your_email">Consultar su correo electrónico</string>
+    <string name="msg_we_have_sent">Hemos enviado instrucciones de recuperación de contraseña a su correo electrónico</string>
+    <string name="otp_verification">Verificación OTP</string>
+    <string name="verify_otp">Verificar OTP</string>
+    <string name="resend">Reenviar</string>
+    <string name="msg_digit_code_sent">Código de 4 dígitos enviado a</string>
+    <string name="ok">Bueno</string>
+    <string name="cancel">Cancelar</string>
+    <string name="select">Seleccionar</string>
+    <string name="msg_create_new_pwd">Su nueva contraseña debe ser diferente de la actual.</string>
+    <string name="create_new_password">Crear nueva contraseña</string>
+    <string name="create">Crear</string>
+    <string name="msg_congratulations">Has cambiado satisfactoriamente tu contraseña.</string>
+    <string name="congratulations">Felicidades</string>
+    <string name="msg_change_pwd">Confirme su contraseña existente para crear una nueva.</string>
+    <string name="change_password">Cambiar la contraseña</string>
+    <string name="msg_login_finger">Iniciar sesión usando credenciales biométricas</string>
+    <string name="beeline_login">Inicio de sesión en Beeline</string>
+    <string name="use_account_password">Usar contraseña de cuenta</string>
+    <string name="msg_face_id">Iniciar sesión usando identificación facial</string>
+    <string name="phone_number">Número de teléfono</string>
+
+    <string name="err_first_name">Por favor, introduzca un nombre válido.</string>
+    <string name="err_last_name">Se requiere el apellido.</string>
+    <string name="err_email">El correo electrónico no debe estar vacío.</string>
+    <string name="err_phone_required">Por favor, introduzca un número de teléfono válido.</string>
+    <string name="err_password_required"><![CDATA[La contraseña debe tener entre 8 y 20 caracteres y debe contener lo siguiente:
+\n2 letras mayúsculas (A-Z),
+\n1 carácter especial (!@#$&*),
+\n2 dígitos (0-9),
+\n3 letras minúsculas (a-z).]]></string>
+
+    <string name="err_confirm_pwd_not_match">La confirmación de la contraseña no coincide con la contraseña.</string>
+    <string name="err_street_address">La dirección de calle no debe estar vacía.</string>
+
+    <string name="err_gender">El género no debe estar vacío.</string>
+    <string name="err_city">La ciudad no debe estar vacía.</string>
+    <string name="err_state">Se requiere el estado.</string>
+    <string name="err_zipcode">El código postal no debe estar vacío.</string>
+    <string name="err_otp">El OTP no debe estar vacío.</string>
+    <string name="msg_we_have_sent_on_mobile">Hemos enviado una instrucción de recuperación de contraseña a tu teléfono.</string>
+    <string name="check_your_phone">Revisa tu teléfono</string>
+    <string name="version">Versión %s</string>
+    <string name="copyright_2023_beeline_all_rights_reserved">Copyright © 2023 Beeline. Reservados todos los derechos.</string>
+    <string name="martha_parker">Martha Parker</string>
+    <string name="view_profile">Ver perfil</string>
+    <string name="more">Más</string>
+    <string name="sex">Género</string>
+    <string name="group_joined">Grupo Unido</string>
+    <string name="personal_vehicle_type">Tipo de Vehículo Personal</string>
+    <string name="profile_settings">Configuración de Perfil</string>
+    <string name="delete_account">Borrar cuenta</string>
+    <string name="profile">Perfil</string>
+    <string name="edit_profile">Editar Perfil</string>
+    <string name="personal_information">Información Personal</string>
+    <string name="save">Ahorrar</string>
+    <string name="other_information">Otra Información</string>
+    <string name="state">Estado</string>
+    <string name="title_are_you_sure">¿Está seguro?</string>
+    <string name="msg_are_you_sure">¿Estás seguro de que quieres eliminar esta cuenta? Esta acción no se puede deshacer.</string>
+    <string name="delete">Borrar</string>
+    <string name="no">No</string>
+    <string name="current_password">Contraseña Actual</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="notification_setting">Configuración de Notificaciones</string>
+    <string name="service_delay">Retrasos en el servicio</string>
+
+
+    <string-array name="tab_arr">
+        <item>hogar</item>
+        <item>Viaje</item>
+        <item>Recompensas</item>
+        <item>Comentario</item>
+        <item>Más</item>
+    </string-array>
+
+    <string-array name="arr_settings">
+        <item>Lenguas</item>
+        <item>Notificaciones</item>
+        <item>Preguntas frecuentes</item>
+        <item>Contáctenos</item>
+        <item>Acuerdo de licencia</item>
+        <item>Declaración de privacidad</item>
+        <item>Cerrar sesión</item>
+    </string-array>
+
+
+
+
+
+    <string name="service_delays">Retrasos en el servicio</string>
+    <string name="detours">Desviar</string>
+    <string name="desc_service_delays">Recibe todas las notificaciones</string>
+    <string name="desc_detours">Obtén tu resumen diario personalizado\nen tu bandeja de entrada</string>
+    <string name="contact_us">Contáctenos</string>
+    <string name="customer_report_form">Servicio al Cliente</string>
+    <string name="msg_customer_report_form">Si tiene alguna pregunta o comentario sobre la aplicación de movilidad climática, haga clic en el enlace a continuación.</string>
+    <string name="go_to_form">Forma incrustada</string>
+    <string name="choose_lang">Escoje su idioma preferido</string>
+    <string name="msg_choose_lang">Seleccione su idioma</string>
+    <string name="yes">Sí</string>
+    <string name="msg_want_logout">¿Realmente quieres salir de la aplicación de Climate Mobility?</string>
+    <string name="msg_logout">¿Estás seguro de que deseas eliminar esta cuenta? Esta acción no se puede deshacer.</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="err_email_not_empty">El correo electrónico no debe estar vacío.</string>
+    <string name="err_pwd_not_empty">La contraseña no debe estar vacía.</string>
+    <string name="err_pwd_length">La contraseña debe tener al menos 8 caracteres.</string>
+    <string name="err_first_name_empty">El primer nombre no puede estar vacío.</string>
+    <string name="err_last_name_empty">El apellido no debe estar vacío.</string>
+    <string name="err_confirm_pwd_empty">La confirmación de la contraseña no debe estar vacía.</string>
+    <string name="err_term_conditions">Por favor, acepta los Términos y Condiciones de la aplicación.</string>
+    <string name="err_age_requirement">Por favor, acepta el requisito de edad de la aplicación.</string>
+    <string name="err_pwd_valid">Por favor, ingresa una contraseña válida.</string>
+    <string name="err_dob">La fecha de nacimiento no debe estar vacía.</string>
+    <string name="err_otp_length">Por favor, ingrese un OTP válido de 4 dígitos.</string>
+    <string name="err_new_pwd_empty">La nueva contraseña no debe estar vacía.</string>
+    <string name="err_new_pwd_length">La Contraseña nueva debe tener al menos 8 caracteres.</string>
+    <string name="err_new_password_required"><![CDATA[La nueva contraseña debe tener entre 8 y 20 caracteres de longitud y debe contener lo siguiente:
+\n2 letras mayúsculas (A-Z),
+\n1 carácter especial (!@#$&*),
+\n2 dígitos (0-9),
+\n3 letras minúsculas (a-z).]]></string>
+
+    <string name="california">California</string>
+    <string name="signin">Iniciar sesión</string>
+    <string name="term_conditions">Términos y Condiciones.</string>
+    <string name="forgot_pwd">¿Olvidó la contraseña?</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="email">Correo electrónico</string>
+    <string name="date_of_birth">fecha de nacimiento</string>
+    <string name="err_biometric">No hay características biométricas disponibles en este dispositivo.</string>
+    <string name="err_biometric_unavailable">Las características biométricas no están disponibles en este momento.</string>
+    <string name="err_biometric_security_valunerablity">Las características biométricas están disponibles, pero se ha descubierto una vulnerabilidad de seguridad.</string>
+    <string name="err_biometric_incompatiblity">Las características biométricas no están disponibles en este momento porque las opciones especificadas son incompatibles con la versión actual de Android.</string>
+    <string name="msg_biometric_no_enrollment">El usuario no puede autenticarse porque no se ha registrado ninguna credencial biométrica o de dispositivo.</string>
+    <string name="err_biometric_operation">Operación cancelada por interacción del usuario.</string>
+    <string name="settings">Configuración</string>
+    <string name="biometric_authentication">Autenticación biométrica</string>
+    <string name="msg_login_biometric">Iniciar sesión utilizando su credencial biométrica</string>
+    <string name="go_to_settings">Ir a Configuración</string>
+    <string name="err_biometric_operation_cancelled">La operación ha sido cancelada por interacción del usuario.</string>
+    <string name="biometric_too_many_attempt">Demasiados intentos. Inténtelo de nuevo más tarde.</string>
+    <string name="err_confirm_pwd_match">La confirmación de la contraseña no coincide con la nueva contraseña.</string>
+    <string name="edit">Editar</string>
+    <string name="female">Femenino</string>
+    <string name="err_dob13years">La fecha debe ser superior a 13 años para usar la aplicación.</string>
+    <string name="err_pwd_empty">El número de teléfono no debe estar vacío.</string>
+    <string name="biometric_is_activated">Biométrico se activa</string>
+    <string name="biometrics">Biometría</string>
+    <string name="next">Próximo</string>
+    <string name="msg_signup_success">Se le ha enviado un correo electrónico para activar su cuenta.</string>
+    <string name="msg_biometric_disabled_app">Biometrics setting is disabled for Beeline App. You can login to app and enable biometrics from Edit Profile.</string>
+    <string name="msg_be_the_solution">Bee (sea) la solución para reducir las emisiones para combatir el cambio climático</string>
+    <string name="trip_planning">Trip Planning</string>
+    <string name="search_destination">Search destination</string>
+    <string name="routes_maps"><![CDATA[Ruta y mapas]]></string>
+    <string name="saved_trips">Viaje guardado</string>
+    <string name="see_more" >Ver más</string>
+    <string name="please_enter_a_valid_zip_code">Por favor, introduzca un código postal válido.</string>
+    <string name="err_email_phone_empty">El correo electrónico/número de teléfono no debe estar vacío.</string>
+
+    <string name="select_group">Seleccionar Grupo (Opcional)</string>
+    <string-array name="school_names">
+        <item>Seleccionar Grupo (Opcional)</item>
+        <item>Escuela Primaria Balboa</item>
+        <item>Escuela Primaria Cerritos</item>
+        <item>Escuela Primaria Columbus</item>
+        <item>Escuela Primaria Dunsmore</item>
+        <item>Escuela Primaria Thomas Edison</item>
+        <item>Escuela Primaria Benjamin Franklin</item>
+        <item>Escuela Primaria John C. Fremont</item>
+        <item>Escuela Primaria Glenoaks</item>
+        <item>Escuela Primaria Thomas Jefferson</item>
+        <item>Escuela Primaria Mark Keppel</item>
+        <item>Escuela Primaria La Crescenta</item>
+        <item>Escuela Primaria Abraham Lincoln</item>
+        <item>Escuela Primaria Horace Mann</item>
+        <item>Escuela Primaria John Marshall</item>
+        <item>Escuela Primaria Monte Vista</item>
+        <item>Escuela Primaria Mountain Avenue</item>
+        <item>Escuela Primaria John Muir</item>
+        <item>Escuela Primaria Valley View</item>
+        <item>Escuela Primaria Verdugo Woodlands</item>
+        <item>Escuela Primaria R.D. White</item>
+        <item>Estudio Independiente de la Academia Verdugo</item>
+        <item>Escuela Intermedia Theodore Roosevelt</item>
+        <item>Escuela Intermedia Rosemont</item>
+        <item>Escuela Intermedia Eleanor J. Toll</item>
+        <item>Escuela Intermedia Woodrow Wilson</item>
+        <item>Estudio Independiente de la Academia Verdugo</item>
+        <item>Escuela Secundaria Anderson W. Clark Magnet</item>
+        <item>Escuela Secundaria Crescenta Valley</item>
+        <item>Escuela Secundaria Glendale</item>
+        <item>Escuela Secundaria Herbert Hoover</item>
+        <item>Escuela de Continuación Allan F. Daily</item>
+        <item>Estudio Independiente de la Academia Verdugo</item>
+        <item>Academia en Línea y Carrera de Glendale Unified</item>
+        <item>Universidad de California en Glendale</item>
+        <item>Glendale Community College</item>
+    </string-array>
+
+    <!-- Inside values-es/strings.xml (Spanish) -->
+    <string-array name="vehicle_types">
+        <item>Tipo de vehículo personal</item>
+        <item>Subcompacto</item>
+        <item>Mediano</item>
+        <item>Grande</item>
+        <item>Pickup</item>
+        <item>Camión</item>
+        <item>Furgoneta</item>
+        <item>Vehículo utilitario deportivo (SUV)</item>
+        <item>Vehículo eléctrico</item>
+        <item>No conduzco un automóvil</item>
+    </string-array>
+
+
+    <!-- Inside values-es/strings.xml (Spanish) -->
+    <string-array name="gender_array">
+        <item>Seleccionar Sexo</item>
+        <item>Masculina</item>
+        <item>Femenina</item>
+        <item>Otro</item>
+<!--        <item>Prefiero no decirlo</item>-->
+    </string-array>
+
+    <string name="err_peronsal_vehicle">El tipo de vehículo no debe estar vacío.</string>
+    <string name="enter_otp">Ingrese OTP</string>
+    <string name="msg_email_activation">An email has been sent to you to activate your account.</string>
+    <string name="type_to_search">Type to search...</string>
+    <string name="recent">Recent</string>
+    <string name="trip_plan">Planificación de viaje</string>
+    <string name="transport_mode_beeline">Beeline</string>
+    <string name="transport_mode_walking">Walking</string>
+    <string name="transport_mode_biking">Biking</string>
+    <string name="location">Current Location</string>
+    <string name="suggestions">Sugerencias</string>
+    <string name="err_valid_city">Por favor, introduzca una ciudad válida.</string>
+    <string name="err_valid_street_address">Por favor, introduzca una dirección de calle válida.</string>
+    <string name="feedback">Comentario</string>
+    <string name="err_network">No estás conectado a Internet. Consulte la conexión a Internet y vuelva a intentarlo.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="er_biometric_saved_credentials">Credentials entered are not getting matched with saved credentials for biometric on this device, you can try manual login.</string>
+    <string name="err_biometric_you_need_to_access">Necesita iniciar sesión manualmente la primera vez para acceder a esta función.</string>
+    <string name="err_biometric_not_enabled">El inicio de sesión biométrico no está habilitado para la cuenta %s, puede intentar el inicio de sesión manual.</string>
+
+    <string name="msg_average_gasoline">El vehículo de gasolina promedio emite alrededor de 411 gramos de CO2 por milla. ¡Eso es 4110 gramos de CO2 para un viaje de 10 millas!</string>
+    <string name="learn_more">Aprende más</string>
+
+    <string name="msg_home_help_lower_emission">Bee (sea) la solución para reducir las emisiones para combatir el cambio climático tomando el autobús, caminando o en bicicleta en lugar de usar su automóvil.</string>
+    <string name="about_emissions">Sobre la emisión</string>
+    <string name="emissions_reduced">Mis reducciones</string>
+    <string name="how_to_earn_points">Cómo ganar puntos</string>
+    <string name="msg_enviromental_protection">Clasificaciones de Tamaño de Vehículos de la Agencia de Protección Ambiental/Millas Por Galón/Emisiones de Gases de Efecto Invernadero</string>
+    <string name="did_you_know">¿Sabías?</string>
+<!--    <string name="learn_more">Learn More</string>-->
+    <string name="this_month">Este mes</string>
+    <string name="lifetime">Toda la vida</string>
+    <string name="msg_profile_update_success">Your profile have been updated successfuly.</string>
+    <string name="msg_permission_camera">Camera Permission is required to use this functionality.</string>
+
+    <string name="err_current_pwd_not_empty">Current Password should not be empty.</string>
+    <string name="err_new_password_current_password">New password must be different from your currently used password.</string>
+    <string name="email_subject">Mobile App Feedback</string>
+    <string name="welcom_user">Bienvenido %s!</string>
+    <string name="redeem">Canjear</string>
+    <string name="order_details">Detalles del pedido</string>
+    <string name="order_total_cost">Costo total de pedido</string>
+    <string name="updated_balance">Balance actualizado</string>
+    <string name="msg_want_to_redeem">"Importante: Para canjear los puntos de colmena con éxito, solicite al comerciante que haga clic en 'canjear' por la disponibilidad de artículos.
+¡Gracias!
+¿Estás seguro de que quieres canjear? Esta acción no se puede deshacer."</string>
+    <string name="msg_redeem_congratulations">¡Tus puntos han sido redimidos con éxito!</string>
+    <string name="reedem_now">Redime ahora</string>
+    <string name="proceed">Proceder</string>
+    <string name="options">%s Opciones</string>
+    <string name="redeem_rewards">Redimir recompensas</string>
+    <string name="redeem_points">Puntos de redimencia</string>
+    <string name="app_name_other">Climate Mobility</string>
+    <string name="climate_mobility">Climate Mobility</string>
+    <string name="option">%s Opción</string>
+    <string name="redeem_details">Redeem Details</string>
+    <string name="route_map"><![CDATA[Routes & Maps]]></string>
+    <string name="trips_planning">Planificación de viaje</string>
+    <string name="plan_a_trip">Planea un viaje</string>
+    <string name="fare_info">Información de tarifa</string>
+    <string name="timetables_route_maps"><![CDATA[Beeline horarios y mapas de ruta]]></string>
+    <string name="msg_view_detailed_timeline">Vea los horarios detallados de Glendale Beeline y el mapa de ruta a continuación.</string>
+    <string name="fare">Tarifas</string>
+    <string name="beeline_fare">Beeline Tarifas</string>
+    <string name="regular">REGULAR</string>
+    <string name="senior_citizen">SENIOR 62+/ DISABLED/ MEDICARE</string>
+    <string name="student">STUDENT</string>
+    <string name="support_email">ClimateMobilityApp@Glendaleca.gov</string>
+    <string name="support_email_with_dot">ClimateMobiltyApp@Glendaleca.gov.</string>
+    <string name="suppor_mobile">(818) 548-3960</string>
+    <string name="gram_of_co">grams of CO2</string>
+    <string name="hive_points">Hive Points</string>
+    <string name="community">Comunidad</string>
+    <string name="add_feedback">Agregar comentario</string>
+    <string name="submit_feedback">Enviar comentarios</string>
+    <string name="map_file_not_found">Map file not found</string>
+    <string name="my_feedback">Mi comentario</string>
+    <string name="err_safety">Please select valid reason for safety</string>
+    <string name="err_service_performance">Please select valid reason for Service Performance.</string>
+    <string name="err_drive_behaviour">Please select valid answer for Drive Behaviour</string>
+    <string name="err_vehicle_maintenance">Please select valid answer for Vehicle Maintenance.</string>
+    <string name="feedback_submitted">Comentarios enviados</string>
+    <string name="thanks_for_your_feedback">Gracias por sus comentarios valiosos sobre nuestro servicio Beeline.</string>
+    <string name="write_your_feedback">Write your feedback</string>
+    <string name="err_valid_reason">"Please select a valid reason. "</string>
+    <string name="msg_if_you_have_any_questions">Si tiene alguna pregunta o inquietud sobre el servicio Beeline, complete el formulario a continuación.</string>
+    <string name="end_destination">Destino final</string>
+    <string name="route">Ruta</string>
+    <string name="bus_no">autobús número</string>
+    <string name="call">Llamar</string>
+    <string name="save_trip">Save Trip</string>
+    <string name="suggested">Suggested</string>
+    <string name="location_search">Location Search</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="let_plan_a_trip">¡Planeemos un viaje!</string>
+    <string name="glendale">Glendale</string>
+    <string name="start_trip">Comenzar viaje</string>
+    <string name="add_your_label">Add your label</string>
+    <string name="bus">Bus</string>
+    <string name="green_points">Puntos de colmena</string>
+    <string name="update_trip">Update Trip</string>
+    <string name="mode_of_transport">Modo de transporte</string>
+    <string name="msg_share_facebook">Choosing eco-friendly vehicles over polluting vehicles isn\'t just a ride, it\'s a commitment to a cleaner, greener future. Every journey on eco-friendly vehicles is a step towards reducing emissions and embracing sustainable mobility. Let\'s pave the way for cleaner air and a healthier planet! \n #BeeLine #CityofGlandale #EcoDrive #ReduceEmissions #SustainableLiving #CleanCommute #tag</string>
+    <string name="msg_share_instagram_x">Rolling into a cleaner, greener future one eco-friendly ride at a time!  Every choice to ditch the polluting ride for a sustainable journey counts. Let\'s make our commute a statement for a healthier planet.\n #BeeLine #CityofGlandale #EcoDrive #ReduceEmissions #SustainableLiving</string>
+    <string name="msg_add_label">Please enter your label</string>
+    <string name="msg_enter_your_label">Ingrese su etiqueta</string>
+    <string name="add_label">Agregar etiqueta</string>
+    <string name="current_location">Ubicación actual</string>
+    <string name="direction">Direcciones</string>
+    <string name="exit">Salida</string>
+    <string name="start">Comenzar</string>
+    <string name="emissions_reduced_this_month">Emisiones reducidas este mes</string>
+    <string name="emission">Emission</string>
+    <string name="msg_successfully_completed">Has completado tu viaje exitosamente y has reducido %s de emisiones y has ganado %s puntos de colmena.</string>
+    <string name="msg_location_permission_required">Location Permission is required for this functionality.</string>
+    <string name="no_vehicle_found">¡No se encontraron vehículos!</string>
+    <string name="msg_feedback_message">¿Le gustaría proporcionar comentarios sobre su experiencia de viaje?</string>
+    <string name="your_post_shared_successfully">Your post shared successfully</string>
+    <string name="let_others_know">¡Informa a los demás!</string>
+    <string name="every_10_trips_completed_through_the_app_will_earn_you_100_points">¡Cada 10 viajes completados a través de la aplicación le ganará 100 puntos!</string>
+    <string name="mission">Misión</string>
+    <string name="server_not_available">Server not available.</string>
+
+    <string name="mode_beeline">Línea recta</string>
+    <string name="walking">Caminando</string>
+    <string name="biking">Ciclismo</string>
+    <string name="you_have_successfully_saved_your_trip">Has salvado con éxito tu viaje</string>
+    <string name="to_purchase_tap_stored_value">"Para comprar Valor Almacenado TAP, "</string>
+    <string name="tap_here">toque aquí.</string>
+    <string name="available_points">Puntos disponibles</string>
+    <string name="points">%s Puntos</string>
+    <string name="redeem_now">Redime ahora</string>
+    <string name="disclaimer">Descargo de responsabilidad</string>
+    <string name="if_you_are_experiencing_or_witnessing_an_emergency">¡Si está experimentando o presenciando una emergencia llame </string>
+    <string name="call_911">al 911!</string>
+    <string name="select_your_route">Seleccione su ruta</string>
+    <string name="comments_rating"><![CDATA[Comentarios y calificación]]></string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="newest">El más nuevo</string>
+    <string name="oldest">Más antiguo</string>
+    <string name="highest">El más alto</string>
+    <string name="lowest">El más bajo</string>
+
+
+    <string-array name="trip_item_options">
+        <item>Editar</item>
+        <item>Borrar</item>
+    </string-array>
+
+
+    <!-- MyFeedbackScren -->
+    <string name="safety">Seguridad</string>
+    <string name="very_safe">Muy seguro</string>
+    <string name="unsafe">Inseguro</string>
+    <string name="unruly_behavior">Comportamiento Rebelde</string>
+    <string name="suspicious_activity">Actividades Sospechosas</string>
+    <string name="threatening_activity">Actividad Amenazante</string>
+    <string name="harassment">Acoso</string>
+    <string name="soliciting_panhandling">Solicitar/Panhandling</string>
+    <string name="service_performance">El Rendimiento del Servicio</string>
+    <string name="on_time">A Tiempo</string>
+    <string name="early">Temprano</string>
+    <string name="running_late">Llegando Tarde</string>
+    <string name="missed_stop">Parada Perdida</string>
+    <string name="driver_behavior_conduct">Comportamiento/Conducta del Conductor</string>
+    <string name="courteous">Cortés</string>
+    <string name="neutral">Neutral</string>
+    <string name="rude">Brusco</string>
+    <string name="vehicle_maintenance">Mantenimiento de Vehículos</string>
+    <string name="clean">Limpio</string>
+    <string name="graffiti">Pintada</string>
+    <string name="no_ac">Sin Aire Acondicionado</string>
+    <string name="no_heat">Sin Calor</string>
+    <string name="dirty">Sucio</string>
+    <string name="seats">Asientos</string>
+    <string name="windows">Windows</string>
+    <string name="floor">Piso</string>
+    <string name="inside_the_bus">Dentro del Autobús</string>
+    <string name="outside_the_bus">Fuera del Autobús</string>
+    <string name="overall_experience">¿Cómo Calificaría la Experiencia General de Nuestro Servicio?</string>
+    <string name="write_feedback">Escribe Tus Comentarios</string>
+    <string name="choose_the_reason">Elige la razón</string>
+    <!-- End MyFeedbackScren -->
+
+
+    <!-- Photopicker -->
+    <string name="profile_picture">Foto de perfil</string>
+    <string-array name="photo_picker_option">
+        <item>Cámara</item>
+        <item>Galería</item>
+        <item>Borrar Foto</item>
+    </string-array>
+    <!-- End Photopicker -->
+
+    <string name="license_agreement">Acuerdo de licencia</string>
+    <string name="privacy_statement">Declaración de privacidad</string>
+    <string name="faqs">Preguntas frecuentes</string>
+    <string name="msg_permission_ration_post_notification">Climate Mobility requires the notification permission to deliver important updates and notifications directly to your device. Consider it allowing permission from app settings.</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="my_trips">Mis Viajes</string>
+    <string name="trip_cannot_be_start_before_selected_date">Trip cannot be start before selected date</string>
+
+    <string name="emission_reduced">Se redujo de emisiones</string>
+    <string name="msg_start_trip_to_see">Start a trip to see how much are helping to reduce CO2 emissions!</string>
+
+
+</resources>

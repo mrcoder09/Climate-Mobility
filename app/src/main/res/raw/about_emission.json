@@ -1,0 +1,120 @@
+{
+  "Title": "Environmental Protection Agency Vehicle Size Classifications/Mile Per Gallon/Greenhouse Emissions",
+  "emission_list": [
+    {
+      "id" : 1,
+      "category": "Subcompact",
+      "subcategory": "Subcompact",
+      "emission": "35 MPG",
+      "description": "Greenhouse Gas Emissions 254 grams per mile",
+      "vehicleList": [
+        "KIA Rio",
+        "Mini Cooper",
+        "Nissan Versa"
+      ]
+    },
+    {
+      "id" : 2,
+      "category": "Compact",
+      "subcategory": "Compact",
+      "emission": "52 MPG",
+      "description": "Greenhouse Gas Emissions 183 grams per mile",
+      "vehicleList": [
+        "Honda Civic",
+        "Toyota Corolla",
+        "Hyundai Elantra"
+      ]
+    },
+    {
+      "id" : 3,
+      "category": "Mid-Size",
+      "subcategory": "Mid-Size",
+      "emission": "44 MPG",
+      "description": "Greenhouse Gas Emissions 184 grams per mile",
+      "vehicleList": [
+        "Honda Accord",
+        "Toyota Camry",
+        "Nissan Altima"
+      ]
+    },
+    {
+      "id" : 4,
+      "category": "Large",
+      "subcategory": "Large",
+      "emission": "21 MPG",
+      "description": "Greenhouse Gas Emissions 415 grams per mile",
+      "vehicleList": [
+        "Dodge Charger",
+        "Chrysler 300",
+        "Nissan Maxima"
+      ]
+    },
+    {
+      "id" : 5,
+      "category": "Pick Up Trucks",
+      "subcategory": null,
+      "emission": null,
+      "description": null,
+      "vehicleList": null
+    },
+    {
+      "id" : 5,
+      "category": "Pick Up Trucks",
+      "subcategory": "Small Trucks",
+      "emission": "21 MPG",
+      "description": "Greenhouse Gas Emissions 441 grams per mile",
+      "vehicleList": [
+        "Toyota Tacoma",
+        "Ford Ranger",
+        "Chevrolet Colorado"
+      ]
+    },
+    {
+      "id" : 5,
+      "category": "Pick Up Trucks",
+      "subcategory": "Standard Trucks",
+      "emission": "22 MPG",
+      "description": "Greenhouse Gas Emissions 450 grams per mile",
+      "vehicleList": [
+        "Ford 150, Ram 1500",
+        "Chevrolet Silverado"
+      ]
+    },
+    {
+      "id" : 6,
+      "category": "Minivans",
+      "subcategory": "Minivans",
+      "emission": "36 MPG",
+      "description": "Greenhouse Gas Emissions 246 grams per mile",
+      "vehicleList": [
+        "Honda Odyssey",
+        "Chrysler Pacifica",
+        "Toyota Sienna"
+      ]
+    },
+    {
+      "id" : 7,
+      "category": "Sport Utility Vehicles",
+      "subcategory": "Sport Utility Vehicles",
+      "emission": "20 MPG",
+      "description": "Greenhouse Gas Emissions 494 grams per mile",
+      "vehicleList": [
+        "Ford Bronco",
+        "Chevrolet Tahoe",
+        "Hyundai Santa Fe"
+      ]
+    },
+    {
+      "id" : 8,
+      "category": "EVs- Average",
+      "subcategory": "EVs- Average",
+      "emission": "111 MPG",
+      "description": "Greenhouse Gas Emissions 1 gram per mile",
+      "vehicleList": [
+        "Chevrolet Bolt",
+        "Toyota Prius",
+        "Tesla Model 3"
+      ]
+    }
+  ]
+}

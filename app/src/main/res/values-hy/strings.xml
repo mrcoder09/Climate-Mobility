@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Կարգավորումներ</string>
+    <string name="msg_join">Միացեք մեր համայնքին</string>
+    <string name="be_the_solution">Դարձրեք լուծումը աղբյուրները նվազելու համար!</string>
+    <string name="welcome_back">Բարի վերադարձու</string>
+    <string name="please_login">Խնդրում ենք մուտք գործել ձեր հաշիվ, շարունակելու համար:</string>
+    <string name="msg_email">Էլ</string>
+    <string name="msg_password">Գաղտնաբառ</string>
+    <string name="remember_me">Հիշիր ինձ</string>
+    <string name="forgot_password">Մոռացել եք գաղտնաբառը?</string>
+    <string name="login">Մուտք</string>
+    <string name="dont_have_account">Հաշիվ չունեք</string>
+    <string name="first_name">Անուն</string>
+    <string name="last_name">Ազգանուն</string>
+    <string name="create_account">Գրանցվել</string>
+    <string name="msg_sign_up_reduce">Մեղվաբուծություն է արտանետումների իջեցման համար `կլիմայի փոփոխության դեմ պայքարի համար:</string>
+    <string name="confirm_pwd">Հաստատել գաղտնաբառը</string>
+    <string name="msg_do_you_want">Անկանում եք օգտագործել կենսաչափական մուտքի համար:</string>
+    <string name="msg_continue">Շարունակել</string>
+    <string name="next_step">Հաջորդ քայլ</string>
+    <string name="personal_details">Անձնակազմի մանրամասներ</string>
+    <string name="dob">Ծննդյան ամսաթիվ</string>
+    <string name="street_addr">Փողոցային հասցե</string>
+    <string name="city">Քաղաք</string>
+    <string name="zip_code">Փոստային ինդեքս</string>
+    <string name="msg_certify">Ես հավաստում եմ, որ ես 13 տարեկան եմ եւ ավելի մեծ:</string>
+    <string name="i_accept_terms">Ես համաձայն եմ</string>
+    <string name="submit">ներկայացնել</string>
+    <string name="bars">հատվածեր</string>
+    <string name="phone_numer">Հեռախոսահամար</string>
+    <string name="msg_enter_email">Մուտքագրեք ձեր էլ. Փոստը `ձեր գաղտնաբառը վերականգնելու համար:</string>
+    <string name="enter_email_or_phone">Մուտքագրեք էլ</string>
+    <string name="already_have_an_account">Արդեն ունեք հաշիվ? </string>
+    <string name="check_your_email">Ստուգեք ձեր էլ</string>
+    <string name="msg_we_have_sent">Մենք ուղարկել ենք գաղտնաբառի վերականգնման հրահանգներ ձեր էլ</string>
+    <string name="otp_verification">OTP ստուգում</string>
+    <string name="verify_otp">Ստուգեք OTP- ը</string>
+    <string name="resend">Ընդունել</string>
+    <string name="msg_digit_code_sent">Ուղարկված 4 նիշանոց կոդ</string>
+    <string name="ok">Լավ</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="select">Ընտրել</string>
+    <string name="msg_create_new_pwd">Ձեր նոր գաղտնաբառը պետք է տարբերվի ներկայիսից:</string>
+    <string name="create_new_password">Ստեղծել նոր գաղտնաբառ</string>
+    <string name="create">Ստեղծել</string>
+    <string name="msg_congratulations">Դուք բարեհաջող փոխեցիք Ձեր գաղտնաբառը.</string>
+    <string name="congratulations">Շնորհավորումներ</string>
+    <string name="msg_change_pwd">Խնդրում ենք հաստատել ձեր առկա գաղտնաբառը `նորը ստեղծելու համար:</string>
+    <string name="change_password">Փոխել գաղտնաբառը</string>
+    <string name="msg_login_finger">Մուտք գործեք բիոմետրիայի միջոցներով</string>
+    <string name="beeline_login">Բիլայն մուտք</string>
+    <string name="use_account_password">Օգտագործել հաշիվի գաղտնաբառը</string>
+    <string name="msg_face_id">Մուտք գործեք դեմքի ճանաչման միջոցներով</string>
+    <string name="phone_number">Հեռախոսահամար</string>
+
+    <string name="err_email">Էլ. փոստը չի պետք լինել դատարկ։</string>
+    <string name="err_phone_required">Պարտադիր է վավեր հեռախոսահամարը</string>
+
+    <string name="err_first_name">Խնդրում ենք մուտքագրել վավեր անուն։</string>
+    <string name="err_last_name">Ազգանունը պարտադիր է</string>
+    <string name="err_password_required"><![CDATA[Գաղտնաբառը պետք է ունենա 8-20 նիշեր, եւ պարտադիր է պահպանել հետևյալը՝
+\n2 մեծատառ (A-Z),
+\n1 հատուկ նշան (!@#$&*),
+\n2 թիվ (0-9),
+\n3 փոքրատառ (a-z):]]></string>
+
+    <string name="err_confirm_pwd_not_match">Հաստատման գաղտնաբառը չի համընկնում գաղտնաբառի հետ։</string>
+    <string name="err_street_address">Փողոցի հասցեն չի պետք լինի դատարկ։</string>
+    <string name="err_gender">Սեռը չի պետք լինի դատարկ։</string>
+    <string name="err_city">Քաղաքը չի պետք լինի դատարկ։</string>
+    <string name="err_state">Պետք է ընտրեք մարզը</string>
+    <string name="err_zipcode">Փոստային ինդեքսը չի պետք լինի դատարկ։</string>
+    <string name="err_otp">OTP-ն չի պետք լինի դատարկ։</string>
+    <string name="msg_we_have_sent_on_mobile">Մենք ուղարկել ենք գաղտնաբառի վերականգնման ուղեցույց ձեր հեռախոսին։</string>
+    <string name="check_your_phone">Ստուգեք ձեր հեռախոսը</string>
+    <string name="version">Տարբերակ %s</string>
+    <string name="copyright_2023_beeline_all_rights_reserved">Հեղինակային իրավունք © 2023 Beeline. Բոլոր իրավունքները պաշտպանված են:</string>
+    <string name="martha_parker">Martha Parker</string>
+    <string name="view_profile">Դիտել Պրոֆիլ</string>
+    <string name="more">Ավելին</string>
+    <string name="sex">Սեռ</string>
+    <string name="group_joined">Միացել է խմբին</string>
+    <string name="personal_vehicle_type">Անհատական ​​տրանսպորտային միջոցի տեսակը</string>
+    <string name="profile_settings">Պրոֆիլի Կարգավորումներ</string>
+    <string name="delete_account">Հաշիվը ջնջել</string>
+    <string name="profile">Պրոֆիլ</string>
+    <string name="edit_profile">Խմբագրել Պրոֆիլ</string>
+    <string name="personal_information">Անձնական տեղեկություններ</string>
+    <string name="save">Խնայել</string>
+    <string name="other_information">Այլ Տեղեկություն</string>
+    <string name="state">Պետություն</string>
+    <string name="title_are_you_sure">Համոզված ես?</string>
+    <string name="msg_are_you_sure">Համոզված եք, որ ցանկանում եք ջնջել այս հաշիվը: Այս գործողությունը չի կարող վերացնել:</string>
+    <string name="delete">Ջնջել</string>
+    <string name="no">Ոչ</string>
+    <string name="current_password">Ընթացիկ Գաղտնաբառ</string>
+    <string name="notifications">Ծանուցումներ</string>
+    <string name="notification_setting">Ծանուցման պարամետրեր</string>
+    <string name="service_delay">Ծառայության ձգձգումները</string>
+
+
+    <string-array name="tab_arr">
+        <item>տուն</item>
+        <item>Ճամփորդություն</item>
+        <item>Պարգեւներ</item>
+        <item>Հետադարձ կապ</item>
+        <item>Ավելի շատ</item>
+    </string-array>
+
+    <string-array name="arr_settings">
+        <item>Լեզուներ</item>
+        <item>Ծանուցումներ</item>
+        <item>ՀՏՀ</item>
+        <item>Կապվեք մեզ հետ</item>
+        <item>Լիցենզիայի պայմանագիր</item>
+        <item>Գաղտնիության քաղաքականությունը</item>
+        <item>Տնկիլ</item>
+    </string-array>
+
+
+
+    <string name="service_delays">Ծառայության շարժումներ</string>
+    <string name="detours">Շրջանցում</string>
+    <string name="desc_service_delays">Ստացեք բոլոր ծանուցումները</string>
+    <string name="desc_detours">Ստացեք ձեր անհատական օրանգական բաժինը\nձեր փոստի ժամանակ</string>
+    <string name="contact_us">Կապ մեզ հետ</string>
+    <string name="customer_report_form">Հաճախորդների ՍՊԱՍԱՐԿՈՒՄ</string>
+    <string name="msg_customer_report_form">Եթե ​​ունեք հարցեր կամ մեկնաբանություններ կլիմայի շարժունակության ծրագրի վերաբերյալ, կտտացրեք հետեւյալ հղմանը:</string>
+    <string name="go_to_form">Ներկառուցված ձեւ</string>
+    <string name="choose_lang">Ընտրեք ձեր նախընտրած լեզուն</string>
+    <string name="msg_choose_lang">Խնդրում ենք ընտրել ձեր լեզուն</string>
+    <string name="yes">Այո</string>
+    <string name="msg_want_logout">Դուք իսկապես ցանկանում եք դուրս գալ կլիմայի շարժունակության դիմումից:</string>
+    <string name="msg_logout">Արդյոք վստահ եք որ ուզում եք ջնջել այս հաշիվը? Այս գործողությունը չի կարող վերականգնվել։</string>
+    <string name="logout">Տնկիլ</string>
+    <string name="err_email_not_empty">Էլ. փոստը չի պետք լինել դատարկ։</string>
+    <string name="err_pwd_not_empty">Գաղտնաբառը չի պետք լինի դատարկ։</string>
+    <string name="err_pwd_length">Գաղտնաբառը պետք է ունենա առնվազն 8 նիշ։</string>
+    <string name="err_first_name_empty">Անունը չի կարող դատարկ լինել</string>
+    <string name="err_last_name_empty">Ազգանունը չի պետք լինել դատարկ։</string>
+    <string name="err_confirm_pwd_empty">Գաղտնաբառի հաստատման դատարկ չի պետք լինի։</string>
+    <string name="err_term_conditions">Խնդրում ենք ընդունել ծրագրի պայմանները և պայմանագրերը։</string>
+    <string name="err_age_requirement">Խնդրում ենք ընդունել ծրագրի տարիքի պահանջը։</string>
+    <string name="err_pwd_valid">Խնդրում եմ ներմուծել վավեր գաղտնաբառ։</string>
+    <string name="err_dob">Ծննդյան ամսաթիվը չի պետք լինի դատարկ։</string>
+    <string name="err_otp_length">Խնդրում ենք մուտքագրել վավեր 4 թվանշանառաջ OTP։</string>
+    <string name="err_new_pwd_empty">Նոր գաղտնաբառը չի պետք լինի դատարկ։</string>
+    <string name="err_new_pwd_length">Նոր գաղտնաբառը պետք է ունենա 8 նիշ։</string>
+    <string name="err_new_password_required"><![CDATA[Նոր գաղտնաբառը պետք է ունենա 8-20 նիշերի եւ պարտադիր է պահպանել հետևյալը՝
+\n2 մեծատառ (A-Z),
+\n1 հատուկ նշան (!@#$&*),
+\n2 թիվ (0-9),
+\n3 փոքրատառ (a-z)։]]></string>
+
+    <string name="california">Կալիֆորնիա</string>
+    <string name="signin">Մուտք</string>
+    <string name="term_conditions">Պայմաններին և Կարգավորումներին։</string>
+    <string name="forgot_pwd">Դուք մոռացե՞լ եք գաղտնաբառը?</string>
+    <string name="new_password">նոր ծածկագիր</string>
+    <string name="email">Էլ․ Փոստ</string>
+    <string name="date_of_birth">Ծննդյան ամսաթիվ</string>
+    <string name="err_biometric">Այս սարքավորումում հասանելի բիոմետրիկայի հատկանիշներ չկան։</string>
+    <string name="err_biometric_unavailable">Բիոմետրիկայի հատկանիշները հասանելի չեն այս պահին։</string>
+    <string name="err_biometric_security_valunerablity">Բիոմետրիկայի հատկանիշներ հասանելի են, բայց անվտանգության անվանաթափման բարեփոխում առաջարկվել է։</string>
+    <string name="err_biometric_incompatiblity">Բիոմետրիկայի հատկանիշները պահանջվում են, բայց ընտրված տարբերակները անհամատեղ են այդքանակ Android-ի տարբերակին։</string>
+    <string name="msg_biometric_no_enrollment">Օգտագործողը չի կարող հասանելի լինել, քանի որ չեն գրանցված բիոմետրիկայի կամ սարքավորումի վստահվածալից։</string>
+    <string name="err_biometric_operation">Վերագնահատման գործողությունը չի կատարվել օգտագործողի ինտերակցիայի պահին։</string>
+    <string name="settings">Կարգավորումներ</string>
+    <string name="biometric_authentication">Բիոմետրիկայի հասանելիություն</string>
+    <string name="msg_login_biometric">Մուտք գործելու համար օգտագործեք ձեր բիոմետրիկայի վստահվածալը</string>
+    <string name="go_to_settings">Գնացք Կարգավորումներ</string>
+    <string name="err_biometric_operation_cancelled">Վերագնահատումը չի կատարվել օգտագործողի ինտերակցիայի պահին։</string>
+    <string name="biometric_too_many_attempt">Ավելին քանի միավոր փորձեր։ Փորձեք կրկին ուղարկել։</string>
+    <string name="err_confirm_pwd_match">Գաղտնաբառի հաստատումը չի համընկնում նոր գաղտնաբառի հետ։</string>
+    <string name="edit">Խմբագրել</string>
+    <string name="female">Իգական</string>
+    <string name="err_dob13years">Ամսաթիվը պետք է լինի 13 տարեկանից բարձր՝ ծրագրը գրանցվելու համար։</string>
+    <string name="err_pwd_empty">Հեռախոսահամարը չի պետք լինել դատարկ։</string>
+    <string name="biometric_is_activated">Բիոմետրիան միացված է</string>
+    <string name="biometrics">Բիոմետրիկա</string>
+    <string name="next">Հաջորդ</string>
+    <string name="msg_signup_success">Ձեր հաշիվը ակտիվացնելու համար ձեզ էլ-նամակ է ուղարկվել:</string>
+    <string name="msg_biometric_disabled_app">Biometrics setting is disabled for Beeline App. You can login to app and enable biometrics from Edit Profile.</string>
+    <string name="msg_be_the_solution">Մեղվաբուծություն `կլիմայի փոփոխության դեմ արտանետումների իջեցում</string>
+    <string name="trip_planning">Trip Planning</string>
+    <string name="search_destination">Search destination</string>
+    <string name="routes_maps"><![CDATA[Երթուղային եւ\nքարտեզներ]]></string>
+    <string name="saved_trips">Պահպանված\nուղեւորություն</string>
+    <string name="see_more" >Տեսնել ավելին</string>
+    <string name="please_enter_a_valid_zip_code">Տրանսպորտի տեսակը չի պետք լինի դատարկ։</string>
+    <string name="err_email_phone_empty">Էլ. փոստ/Հեռախոսահամարը չպետք է դատարկ լինի։</string>
+    <string name="select_group">Ընտրեք խմբագրություն (Լրացված)</string>
+
+    <string-array name="school_names">
+        <item>Ընտրեք խմբագրություն (Լրացված)</item>
+        <item>Բալբոա Սկուլպտուռա</item>
+        <item>Սերրիտոս Սկուլպտուռա</item>
+        <item>Կոլումբուս Սկուլպտուռա</item>
+        <item>Դանսմոր Սկուլպտուռա</item>
+        <item>Թոմաս Էդիսոն Սկուլպտուռա</item>
+        <item>Բենջամին Ֆրանկլին Սկուլպտուռա</item>
+        <item>Ջոն Ք. Ֆրեմոնթ Սկուլպտուռա</item>
+        <item>Գլենոաքս Սկուլպտուռա</item>
+        <item>Թոմաս Ջեֆֆերսոն Սկուլպտուռա</item>
+        <item>Մարկ Քեփել Սկուլպտուռա</item>
+        <item>Լա Կրեսենթա Սկուլպտուռա</item>
+        <item>Աբրահամ Լինկոլն Սկուլպտուռա</item>
+        <item>Հորիս Մանն Սկուլպտուռա</item>
+        <item>Ջոն Մարշալի Սկուլպտուռա</item>
+        <item>Մոնտե Վիստա Սկուլպտուռա</item>
+        <item>Մաունթեն Ավենյու Սկուլպտուռա</item>
+        <item>Մաունթեն Ավենյու Սկուլպտուռա</item>
+        <item>Ռոուզվելթ Միջագետ Սկուլպտուռա</item>
+        <item>Վերդուգո Սկուլպտուռա</item>
+        <item>Ռ.Դ. Ուայթ Էլեմենտարի Սկուլպտուռա</item>
+        <item>Տեդոր Ռուզվելթ Միջագետ Խումբ</item>
+        <item>Ռոզմոնթ Միջագետ Սկուլպտուռա</item>
+        <item>Էլենոր Ջ. Թոլ Միջագետ Սկուլպտուռա</item>
+        <item>Ուդրո Ուիլսոն Միջագետ Սկուլպտուռա</item>
+        <item>Մաունթեն Ավենյու Սկուլպտուռա</item>
+        <item>Անդերսոն Վ. Քլարկ Մագնեթ Հանդեսոն</item>
+        <item>Կրեսենտա Վալլեյ Հանդեսոն</item>
+        <item>Գլենդեյ Հանդեսոն</item>
+        <item>Հերբերթ Հուվեր Հանդեսոն</item>
+        <item>Ալան Ֆ. Դեյլի Շատարանական Հանդեսոն</item>
+        <item>Վերդուգո Միացյալ Սոլասուն և Կարիեր Ակադեմիա</item>
+        <item>Գլենդեյ Լուսալուսական Համալիր և Մշտական Ակադեմիա</item>
+        <item>Գլենդեյ Համալիր դպրոց</item>
+        <item>Կալիֆորնիայի Համալիր Գլենդեյում</item>
+        <item>Գլենդեյ Համալիր դպրոց</item>
+    </string-array>
+
+
+    <!-- Inside values-hy/strings.xml (Armenian) -->
+    <string-array name="vehicle_types">
+        <item>Անհատական տեսահասակ</item>
+        <item>Սուբկոմպակտ</item>
+        <item>Միջառառակ</item>
+        <item>Մեծ</item>
+        <item>Պիկափ</item>
+        <item>Ավտոպառ</item>
+        <item>Մինիվան</item>
+        <item>Մեծամասմակ տրանսպորտածավակ</item>
+        <item>Էլեկտրական տրանսպորտավակ</item>
+        <item>Ես չվարում ավտոմեքենա</item>
+    </string-array>
+
+
+    <!-- Inside values-hy/strings.xml (Armenian) -->
+    <string-array name="gender_array">
+        <item>Ընտրեք սեռ</item>
+        <item>Արական</item>
+        <item>իգական</item>
+        <item>Այլ</item>
+<!--        <item>Լավագույն չէ ասել</item>-->
+    </string-array>
+
+
+    <string name="err_peronsal_vehicle">Անձնավճարվող տեսահամալիրը չի կարող լրացվել։</string>
+    <string name="enter_otp">Մուտքագրեք OTP</string>
+    <string name="msg_email_activation">An email has been sent to you to activate your account.</string>
+    <string name="type_to_search">Type to search...</string>
+    <string name="recent">Recent</string>
+    <string name="trip_plan">Ուղեւորության պլանավորում</string>
+    <string name="transport_mode_beeline">Beeline</string>
+    <string name="transport_mode_walking">Walking</string>
+    <string name="transport_mode_biking">Biking</string>
+    <string name="location">Current Location</string>
+    <string name="suggestions">Առաջարկներ</string>
+    <string name="err_valid_city">Խնդրում ենք մուտքագրել վավեր քաղաք։</string>
+    <string name="err_valid_street_address">Խնդրում ենք մուտքագրել վավեր փողոցի հասցեն։</string>
+    <string name="feedback">Հետադարձ կապ</string>
+    <string name="err_network">Դուք միացված չեք ինտերնետին: Խնդրում ենք ստուգել ինտերնետային կապը եւ կրկին փորձել:</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="er_biometric_saved_credentials">Credentials entered are not getting matched with saved credentials for biometric on this device, you can try manual login.</string>
+    <string name="err_biometric_you_need_to_access">Դուք պետք է ձեր համայնապես մուտք գործեք այս գործառնականը։</string>
+    <string name="err_biometric_not_enabled">%s հաշվի համար սարքում բիոմետրիակա մուտքը միացված չէ, դուք կարող եք փորձել մանուալ մուտք։</string>
+    <string name="about_emissions">Արտանետման մասին</string>
+    <string name="emissions_reduced">Իմ կրճատումները</string>
+    <string name="how_to_earn_points">Ինչպես միավորներ վաստակել</string>
+
+
+    <string name="msg_average_gasoline">Բենզինի միջին ավտոմեքենան մեկ մղոնի համար արտանետում է շուրջ 411 գրամ CO2: Դա 4110 գրամ CO2 է 10 մղոն ուղեւորության համար:</string>
+    <string name="msg_home_help_lower_emission">Մեղվաբուծություն է արտանետումները իջեցնելու համար կլիմայի փոփոխության դեմ պայքարի համար `վերցնելով ավտոբուսը, քայլելը կամ հեծանիվ վարելը` ձեր մեքենան օգտագործելու փոխարեն:</string>
+    <string name="msg_enviromental_protection">Ծածկագիրների չափի դասակարգում Վավթակի Արտադրությունների Հաստատության ագենտություններ/մայլը ամեն գալոն/Բաղադրյալ հողամասեր</string>
+    <string name="did_you_know">Գիտեք</string>
+    <string name="learn_more">Իմացեք ավելին</string>
+    <string name="this_month">Այս ամիս</string>
+    <string name="lifetime">Կյանքի ժամանակը</string>
+    <string name="msg_profile_update_success">Your profile have been updated successfuly.</string>
+    <string name="msg_permission_camera">Camera Permission is required to use this functionality.</string>
+
+    <string name="err_current_pwd_not_empty">Current Password should not be empty.</string>
+    <string name="err_new_password_current_password">New password must be different from your currently used password.</string>
+    <string name="email_subject">Mobile App Feedback</string>
+    <string name="welcom_user">Ողջույն %s!</string>
+    <string name="redeem">Փրկել</string>
+    <string name="order_details">Պատվերի տվյալներ</string>
+    <string name="order_total_cost">Կարգի ընդհանուր արժեքը</string>
+    <string name="updated_balance">Թարմացված մնացորդը</string>
+    <string name="msg_want_to_redeem">"ԿԱՐԵՎՈՐ. Հաջողությամբ փեթակ միավորները մարելուց, Autelet Merchant- ին խնդրեք «մարել» `նյութի առկայության համար:
+Շնորհակալություն!
+Համոզված եք, որ ցանկանում եք մարել: Այս գործողությունը չի կարող վերացնել:"</string>
+    <string name="msg_redeem_congratulations">Ձեր միավորները հաջողությամբ մարվել են:</string>
+    <string name="reedem_now">Reedem Now</string>
+    <string name="proceed">Վարել</string>
+    <string name="options">%s Տարբերակներ</string>
+    <string name="redeem_rewards">Վերականգնել պարգեւները</string>
+    <string name="redeem_points">Փրկեք միավորները</string>
+    <string name="app_name_other">Climate Mobility</string>
+    <string name="climate_mobility">Climate Mobility</string>
+    <string name="option">%s Տարբերություն</string>
+    <string name="redeem_details">Redeem Details</string>
+    <string name="route_map"><![CDATA[Routes & Maps]]></string>
+    <string name="trips_planning">Ուղեւորության պլանավորում</string>
+    <string name="plan_a_trip">Պլանավորել ուղեւորություն</string>
+    <string name="fare_info">Ուղեվարձի տեղեկություն</string>
+    <string name="timetables_route_maps"><![CDATA[Beeline Timetables & Route Maps]]></string>
+    <string name="msg_view_detailed_timeline">Դիտեք Գլենդել Beeline- ի մանրամասն ժամանակացույցը եւ երթուղու քարտեզը ներքեւում:</string>
+    <string name="fare">Գնումներ</string>
+    <string name="beeline_fare">Beeline Fares</string>
+    <string name="regular">REGULAR</string>
+    <string name="senior_citizen">SENIOR 62+/ DISABLED/ MEDICARE</string>
+    <string name="student">STUDENT</string>
+    <string name="support_email">ClimateMobilityApp@Glendaleca.gov</string>
+    <string name="support_email_with_dot">ClimateMobiltyApp@Glendaleca.gov.</string>
+    <string name="suppor_mobile">(818) 548-3960</string>
+    <string name="gram_of_co">grams of CO2</string>
+    <string name="hive_points">Hive Points</string>
+    <string name="community">Համայնք</string>
+    <string name="add_feedback">Ավելացնել հետադարձ կապ</string>
+    <string name="submit_feedback">Ներկայացրեք հետադարձ կապ</string>
+    <string name="map_file_not_found">Map file not found</string>
+    <string name="my_feedback">Իմ կարծիքը</string>
+    <string name="err_safety">Please select valid reason for safety</string>
+    <string name="err_service_performance">Please select valid reason for Service Performance.</string>
+    <string name="err_drive_behaviour">Please select valid answer for Drive Behaviour</string>
+    <string name="err_vehicle_maintenance">Please select valid answer for Vehicle Maintenance.</string>
+    <string name="feedback_submitted">Հետադարձ կապ ներկայացվել է</string>
+    <string name="thanks_for_your_feedback">Շնորհակալություն մեր Beeline ծառայության համար արժեքավոր արձագանքների համար:</string>
+    <string name="write_your_feedback">Write your feedback</string>
+    <string name="err_valid_reason">"Please select a valid reason. "</string>
+    <string name="msg_if_you_have_any_questions">Եթե ​​Beeline ծառայության վերաբերյալ հարցեր կամ մտահոգություններ ունեք, լրացրեք ստորեւ նշված ձեւաթուղթը:</string>
+    <string name="end_destination">Վերջնական նպատակակետ</string>
+    <string name="route">Երթուղի</string>
+    <string name="bus_no">Bus no</string>
+    <string name="call">Զանգահարել</string>
+    <string name="save_trip">Save Trip</string>
+    <string name="suggested">Suggested</string>
+    <string name="location_search">Location Search</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="let_plan_a_trip">Եկեք պլանավորենք Atrip- ը:</string>
+    <string name="glendale">Glendale</string>
+    <string name="start_trip">Սկսեք ուղեւորություն</string>
+    <string name="add_your_label">Add your label</string>
+    <string name="bus">Bus</string>
+    <string name="green_points">Փեթակ կետեր</string>
+    <string name="update_trip">Update Trip</string>
+    <string name="mode_of_transport">Տրանսպորտի ռեժիմ</string>
+    <string name="msg_share_facebook">Choosing eco-friendly vehicles over polluting vehicles isn\'t just a ride, it\'s a commitment to a cleaner, greener future. Every journey on eco-friendly vehicles is a step towards reducing emissions and embracing sustainable mobility. Let\'s pave the way for cleaner air and a healthier planet! \n #BeeLine #CityofGlandale #EcoDrive #ReduceEmissions #SustainableLiving #CleanCommute #tag</string>
+    <string name="msg_share_instagram_x">Rolling into a cleaner, greener future one eco-friendly ride at a time!  Every choice to ditch the polluting ride for a sustainable journey counts. Let\'s make our commute a statement for a healthier planet.\n #BeeLine #CityofGlandale #EcoDrive #ReduceEmissions #SustainableLiving</string>
+    <string name="msg_add_label">Please enter your label</string>
+    <string name="msg_enter_your_label">Մուտքագրեք ձեր պիտակը</string>
+    <string name="add_label">Ավելացնել պիտակը</string>
+    <string name="current_location">Ընթացիկ գտնվելու վայրը</string>
+    <string name="direction">Ուղղություններ</string>
+    <string name="exit">Ելք</string>
+    <string name="start">Սկիզբ</string>
+    <string name="emissions_reduced_this_month">Այս ամիս արտանետումները կրճատվել են</string>
+    <string name="emission">Emission</string>
+    <string name="msg_successfully_completed">Դուք հաջողությամբ ավարտեցիք ձեր ճանապարհը և ստացեք %s հարկի մնացորդի ազդեցություն և %s հարկի մնացորդի միավոր։</string>
+
+    <string name="msg_location_permission_required">Location Permission is required for this functionality.</string>
+    <string name="no_vehicle_found">Ուղեգրությունները չեն գտնվել:</string>
+    <string name="msg_feedback_message">Կցանկանայիք հետադարձ կապ տրամադրել ձեր ուղեւորության փորձի վերաբերյալ:</string>
+    <string name="your_post_shared_successfully">Your post shared successfully</string>
+    <string name="let_others_know">Թույլատրեք մյուսներին իմանալ!</string>
+    <string name="every_10_trips_completed_through_the_app_will_earn_you_100_points">Հավելվածի միջոցով ավարտված յուրաքանչյուր 10 ուղեւորություն ձեզ կվաստակեն 100 միավոր:</string>
+    <string name="mission">Առաքելություն</string>
+    <string name="server_not_available">Server not available.</string>
+
+    <string name="mode_beeline">Ապրանքանիշ</string>
+    <string name="walking">Քայլել</string>
+    <string name="biking">Հեծալկ</string>
+    <string name="you_have_successfully_saved_your_trip">Դուք հաջողություն եք պահպանել ձեր ուղեւորությունը</string>
+    <string name="to_purchase_tap_stored_value">"Թեքերեք TAP պահպանված արժեքը, "</string>
+    <string name="tap_here">սեղմեք այստեղ։</string>
+    <string name="available_points">Առկա միավորներ</string>
+    <string name="points">%s միավոր</string>
+    <string name="redeem_now">Վերադարձնել հիմա</string>
+    <string name="disclaimer">Մերժում</string>
+    <string name="if_you_are_experiencing_or_witnessing_an_emergency">Եթե ​​դուք զգում եք կամ ականատես եք լինում շտապ </string>
+    <string name="call_911">զանգի 911:</string>
+    <string name="select_your_route">Ընտրեք ձեր երթուղին</string>
+    <string name="comments_rating"><![CDATA[Կարծիքներ եւ վարկանիշ]]></string>
+    <string name="sort_by">Դասավորել ըստ</string>
+    <string name="newest">Նորագույն</string>
+    <string name="oldest">Ամենահին</string>
+    <string name="highest">Ամենաբարձր</string>
+    <string name="lowest">Ամենացածր</string>
+
+
+    <string-array name="trip_item_options">
+        <item>Փոփոխել</item>
+        <item>Ջնջել</item>
+    </string-array>
+
+
+
+
+    <!-- MyFeedbackScren -->
+    <string name="safety">Անվտանգություն</string>
+    <string name="very_safe">Շատ անվտանգ</string>
+    <string name="unsafe">Անապահով</string>
+    <string name="unruly_behavior">Անբարեխիղճ պահվածք</string>
+    <string name="suspicious_activity">Կասկածելի գործունեություն</string>
+    <string name="threatening_activity">Սպառնալից գործունեություն</string>
+    <string name="harassment">Ոտնձգություններ</string>
+    <string name="soliciting_panhandling">Նոգործիչ / Պանելլինգ</string>
+    <string name="service_performance">Ծառայության կատարումը</string>
+    <string name="on_time">Ժամանակին</string>
+    <string name="early">Վաղաժամ</string>
+    <string name="running_late">Վազում է ուշ</string>
+    <string name="missed_stop">Բաց թողնված կանգառը</string>
+    <string name="driver_behavior_conduct">Վարորդի վարքագիծը / Վարքը</string>
+    <string name="courteous">Չեզոք</string>
+    <string name="neutral">Կոպիտ</string>
+    <string name="rude">Տրանսպորտային միջոցների սպասարկում</string>
+    <string name="vehicle_maintenance">Կեղտոտ</string>
+    <string name="clean">Լավ</string>
+    <string name="graffiti">Գրաֆիտի</string>
+    <string name="no_ac">Ոչ մի ac</string>
+    <string name="no_heat">Ոչ ջերմություն</string>
+    <string name="dirty">Կասկածելի գործունեություն</string>
+    <string name="seats">Նստատեղեր</string>
+    <string name="windows">Պատուհաններ</string>
+    <string name="floor">Հատակ</string>
+    <string name="inside_the_bus">Ավտոբուսի ներսում</string>
+    <string name="outside_the_bus">Ավտոբուսից դուրս</string>
+    <string name="overall_experience">Ինչպես կգնահատեք մեր ծառայության ընդհանուր փորձը</string>
+    <string name="write_feedback">Գրեք ձեր կարծիքը</string>
+    <string name="choose_the_reason">Ընտրեք պատճառը</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="license_agreement">License Agreement</string>
+    <string name="privacy_statement">Privacy Statement</string>
+    <string name="faqs">FAQs</string>
+    <string name="msg_permission_ration_post_notification">Climate Mobility requires the notification permission to deliver important updates and notifications directly to your device. Consider it allowing permission from app settings.</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="my_trips">Իմ ճանապարհները</string>
+    <string name="trip_cannot_be_start_before_selected_date">Trip cannot be start before selected date</string>
+
+    <!-- End MyFeedbackScren -->
+
+    <string-array name="photo_picker_option">
+        <item>Տեսախցիկ</item>
+        <item>Սրահ</item>
+        <item>Delete նջել լուսանկարը</item>
+    </string-array>
+
+    <string name="emission_reduced">Երկարաձգված է</string>
+    <string name="msg_start_trip_to_see">Start a trip to see how much are helping to reduce CO2 emissions!</string>
+
+
+</resources>
